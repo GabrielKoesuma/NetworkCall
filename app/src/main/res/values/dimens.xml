@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_text_test">34sp</dimen>
+    <dimen name="margin_text_test">48dp</dimen>
+    <dimen name="margin_button_change">8dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+
+</resources>
